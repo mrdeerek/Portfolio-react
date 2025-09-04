@@ -7,7 +7,7 @@ import arrow_icon from '../../assets/arrow_icon.svg'
 const Projects = () => {
   return (
     <div className='projects'>
-              <div className="services-title">
+              <div className="Services-title">
                 <h1>Latest Project</h1>
                 <img src={theme_pattern} alt="" />
               </div>
